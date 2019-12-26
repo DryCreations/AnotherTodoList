@@ -1,0 +1,1 @@
+@media (max-width:640px){.scroll{overflow-y:scroll;max-height:25vh}}@media (min-width:641px) and (max-width:800px){.scroll{overflow-y:scroll;max-height:35vh}}@media (min-width:801px) and (max-width:1024px){.scroll{overflow-y:scroll;max-height:45vh}}@media (min-width:1025px){.scroll{overflow-y:scroll;max-height:50vh}}
